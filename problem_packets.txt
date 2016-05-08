@@ -1,0 +1,15 @@
+['1763', '9.519034', 'fe80::a866:d08c:c12:473e', 'ff02::c', 'UDP', '1059', 'Source port: 55118  Destination port: 3702']
+['4970', '26.942059', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+
+['6197', '33.550373', 'fe80::a866:d08c:c12:473e', 'ff02::1:2', 'DHCPv6', '176', 'Solicit XID: 0x5cb764 CID: 000100011c751b20d4bed93d452c ']
+['10576', '58.990302', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+
+['12045', '67.893769', 'IntelCor_37:ef:ec', 'Broadcast', 'ARP', '42', 'Who has 192.168.0.1?  Tell 192.168.0.12']
+['16105', '91.037275', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+
+['16105', '91.037275', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+['21556', '123.084677', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+
+['16105', '91.037275', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+['21556', '123.084677', 'IntelCor_37:ef:ec', 'AsiaPaci_aa:65:bb', 'ARP', '42', '192.168.0.12 is at 8c:70:5a:37:ef:ec']
+

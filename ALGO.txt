@@ -1,0 +1,7 @@
+1. checks if user has provided max_time for packet difference
+2. gets options for packets, source, prot etc
+3. gets all packets from csv file
+4. sorts through packets getting only the packets that match users options
+5. gets time difference between packets with user options
+6. if user has provided max time gets packets with time difference greater than that, if not gets packets with time difference greater than average and if there other packets between them
+7 (current). looks at packets with big time differences and looks for differences between them and packets with smaller time differences
